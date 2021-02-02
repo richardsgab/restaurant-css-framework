@@ -44,7 +44,8 @@
     <main>      
         <section class="container-fluid bg-dark">
             <section class="row">
-                <section class="col-sm-6 m-3 gx-3 border border-secondary bg-light">  
+                <section class="col-sm-6 m-3 gx-3 border border-secondary bg-light"> 
+                  <h3 class="text-center">Contact with us</h3> 
                     <form action="">
                         <div class="form-group">
                           <label for="exampleFormControlInput1">First Name</label>
@@ -58,22 +59,44 @@
                           <label for="exampleFormControlInput1">Email address</label>
                           <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
                         </div>
-                        <div class="form-group">
-                          <label for="exampleFormControlSelect1">Subject</label>
-                          <select class="form-control" id="exampleFormControlSelect1">
-                            <option>1. Join the Club</option>
-                            <option>2. Book an Event</option>
-                            <option>3. You are a Local Producer</option>
-                            <option>4. Complaints</option>
-                            <option>5. Work with us</option>
+                        <div class="mb-4">
+                          <label class="form-label">Subject</label>
+                          <select class="form-select" aria-label="Floating label select example">
+                              <option selected>Join our Club</option>
+                              <option value="1">Book an Event</option>
+                              <option value="2">You are a local producer</option>
+                              <option value="3">Work with us</option>
+                              <option value="3">You are not happy about</option>
+                              <option value="3">Questions & Others)</option>
                           </select>
-                        </div>                        
+                        </div>                    
                         <div class="form-group">
                           <label for="exampleFormControlTextarea1">Write here</label>
                           <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
                         <button type="submit" class="btn btn-dark">Submit</button>
                       </form>
+                </section>
+                <section class="col-sm-4 m-3 gx-3">
+                  <h4 class="text-center text-white">Where we are?</h4>
+                  <div class="card mx-2 my-2 h-80" style="width: 18rem;">
+                    <img src="assets/Screenshot_2021-02-02 unnamed jpg (Image JPEG, 362 × 512 pixels).png" class="card-img-top img-fluid" alt="...">
+                    <div class="card-body">
+                      <p class="card-text">Here you can find us</p>
+                    </div>
+                  </div>
+                </section>
+                <section class="col-sm-8 m-3 gx-3 border border-white">
+                  <h4 class="text-center text-white">Franchises</h4>
+                  <ul class="text-white">
+                    <li>Berlin</li>
+                    <li>Paris</li>
+                    <li>Lyon</li>
+                    <li>London</li>
+                    <li>Dublin</li>
+                    <li>Stocolm</li>
+                    <li>Amsterdam</li>
+                  </ul>
                 </section>
             </section>
         </section>
