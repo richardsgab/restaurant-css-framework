@@ -13,4 +13,4 @@ Copyright photo's:
 
  ### Screenshots
  Large and medium screens: 
- [screenshot]:(assets/screenes.png)
+ [screenshot]:(https://github.com/richardsgab/restaurant-css-framework/blob/main/assets/Screenshot_2021-02-02%20unnamed%20jpg%20(Image%20JPEG%2C%20362%20%C3%97%20512%20pixels).png)
