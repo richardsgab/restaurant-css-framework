@@ -16,4 +16,4 @@ Copyright photo's:
  [screenshot]:(https://github.com/richardsgab/restaurant-css-framework/blob/main/assets/screenes.png)
 
  Website
- [Sparris Vegan Resto & Body Spa](https://richardsgab.github.io/restaurant-css-framework/git)
+ [Sparris Vegan Resto & Body Spa](https://richardsgab.github.io/restaurant-css-framework/)
