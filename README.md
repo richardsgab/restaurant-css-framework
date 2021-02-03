@@ -1,6 +1,6 @@
 # restaurant-css-framework
 
-## Web page du Restaurant et Centre de Bien-Être  "Spargus"
+## Web page du Restaurant et Centre de Bien-Être  "Sparris"
 
 Cette page a êtè construite dans le cadre de l'evaluation des premiéres semaines 
 de la formation Wev-Developer chez l'école BeCode.
